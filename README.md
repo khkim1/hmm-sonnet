@@ -1,6 +1,8 @@
 # Generating Shakesperean Literature with Hidden Markov Models and LSTM networks
 Tensorflow and hmmlearn implementation of HMMs and LSTM networks trained on Shakespeare. 
 
+Report available [here](https://github.com/khkim1/hmm-sonnet/blob/master/report/report.pdf)
+
 ## Requirements
 
 - Python 2.7 or Python 3.3+
